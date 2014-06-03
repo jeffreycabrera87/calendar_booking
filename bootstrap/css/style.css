@@ -1,0 +1,34 @@
+#form1{
+	width: 310px;
+	text-align: center;
+	float: right;
+	
+
+}
+
+input{
+	width: 300px;
+	height: 30px;
+	border-radius: 1px;
+}
+
+#approveForm{
+	float: left;
+	
+
+}
+
+td{
+	width: 200px;
+	height: 40px;
+	text-align: center;
+}
+
+#adminForm{
+	width: 1100px;
+	margin:auto;
+}
+
+.container{
+
+}
